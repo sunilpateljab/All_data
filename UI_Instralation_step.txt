@@ -1,6 +1,15 @@
 Official websites
 ---------------------------------
 
+------------------------------------------------------------------------------------
+url for live server
+
+E:\UI_Development\HTML\HTML_Completed_Template
+
+E:\UI_Development\CSS\CSS_Completed_Template
+---------------------------------------------------------------------------------
+
+
 https://desktop.github.com/
 -----------------------------------------------------------------------------------------
 for using github in own desktop then install by given above link
