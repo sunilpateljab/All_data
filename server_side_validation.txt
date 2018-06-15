@@ -1,0 +1,18 @@
+                   $str = TRUE;
+                    if (empty($name)) {
+                        $name_err = "Enter Name";
+                        $str = FALSE;
+                    }
+                    if (empty($email)) {
+                        $email_err = "Enter Email";
+                        $str = FALSE;
+                    }
+                    if (empty($mobile)) {
+                        $mobile_err = "Enter mobile no.";
+                        $str = FALSE;
+                    }
+                    if (empty($password)) {
+                        $password_err = "Enter password";
+                        $str = FALSE;
+                    }
+                    return TRUE;
