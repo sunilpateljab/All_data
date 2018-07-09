@@ -1,0 +1,29 @@
+form{
+    background-image: url('https://data.whicdn.com/images/271031151/original.gif');
+    margin-left: 200px;
+    margin-top: 50px;
+    border: 10px solid blue;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+}
+input[type="password"],input[type="text"]{
+    border-radius: 50px;
+    padding: 5px;
+    outline: none;
+}
+input[type="submit"]{
+    color: wheat;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid green;
+    background-color: blue;
+    outline: none;
+}
+input[type="submit"]:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px lightblue;
+}
+

@@ -1,0 +1,56 @@
+ 
+.err{
+    color: white;
+    padding: 8px;
+    border: 2px solid #990000;
+    background-color: #990000;
+}
+
+h1{
+    margin-left: 150px;
+    font-size: 50px;
+    padding: 5px;
+}
+body{
+    margin: 0;
+    background-color: lightgray;
+}
+table{
+    margin-left: 450px;
+
+}
+input[type="text"],input[type="password"],input[type='date']{
+    font-size: 19px;
+    border: 5px;
+    padding: 5px;
+    margin: 2px;
+
+}
+input[type="submit"]{
+    margin-top: 50px;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    width: 204px;
+    color: white;
+    border-radius: 45px;
+    background-color: green;
+    outline: none;
+}
+input[type="submit"]:hover{
+    background-color: blue;
+    box-shadow: 5px 5px 6px blue;
+    outline: none;
+    cursor: pointer;
+    outline: none;
+}
+#id{
+    font-size: 24px;
+}
+h2{
+    margin-left: 450px;
+    margin-top: 0px;
+    font-size: 38px;
+}
+
+

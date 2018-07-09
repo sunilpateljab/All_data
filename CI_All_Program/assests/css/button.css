@@ -1,0 +1,16 @@
+
+body{
+    margin: 0;
+}
+a{
+    color: white;
+    font-size: 18px;
+    background-color: green;
+    padding:8px;
+    margin: 3px;
+    text-align: center;
+    border-radius: 15px;
+    text-decoration: none;
+    float: left;
+
+}
